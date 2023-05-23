@@ -1,0 +1,7 @@
+cells 8
+win_condition 4
+game_width 600
+game_height 600
+menu_width 800
+menu_height 700
+full_screen 0
